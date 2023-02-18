@@ -23,7 +23,7 @@
 
     {
       "name": "BNB Token",
-      "symbol": "BNBS",
+      "symbol": "BNB",
       "address": "0x45ADFadAaeC7f7BFC59846006973876051001fA7",
       "chainId": 4099,
       "decimals": 18,
