@@ -12,7 +12,7 @@
   "tokens": [
     {
       "name": "WBNI Tokens",
-      "symbol": "WBNI",
+      "symbol": "W-BNI",
       "address": "0x15E162205421dc3A47b15A1A740FbF5EAbB77921",
       "chainId": 4099,
       "decimals": 18,
